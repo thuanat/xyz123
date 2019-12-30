@@ -1,5 +1,5 @@
 <?php 
 
-echo "hi, how are you!!!";
+echo "xin chao, ban khoe khong?!";
 
  ?>
